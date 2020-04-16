@@ -17,6 +17,7 @@ public class Calculator {
 		add(add(5,4),6);
 		add(1.3, 4.5);
 		add(4,5,6);
+		
 
 	}
 	
@@ -35,6 +36,7 @@ public class Calculator {
 		System.out.println(a+b+c);
 		return a+b+c;
 	}
+	
 
 	
 	
